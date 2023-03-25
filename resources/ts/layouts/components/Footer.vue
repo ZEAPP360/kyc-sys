@@ -12,7 +12,7 @@
         class="mx-1"
       />
       By <a
-        href="#"
+        href="https://zeapp360.com"
         target="_blank"
         rel="noopener noreferrer"
         class="text-primary ms-1"
@@ -23,7 +23,7 @@
       <a
         href="#"
         target="noopener noreferrer"
-      >License</a>
+      >Terms & Conditions</a>
     </span>
   </div>
 </template>
